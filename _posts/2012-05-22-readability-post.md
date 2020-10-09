@@ -6,17 +6,17 @@ tags: []
 comments: true
 ---
 
-자 이제부터 git hub 블로그 만들기를 해보겠습니다.
+자 이제부터 git hub 블로그 만들기를 해보겠습니다.  
 git 계정이 있고, git을 설치하였다는 전제 하에 진행됩니다.
 
 ## 1) 블로그 사이트 생성
 
 http://jekyllthemes.org/  
-사이트를 통해 블로그 레이아웃을 골라줍니다.
-마음에 드는 레이아웃을 클릭하여 License를 확인합니다.
+사이트를 통해 블로그 레이아웃을 골라줍니다.  
+마음에 드는 레이아웃을 클릭하여 License를 확인합니다.  
 저는 MIT license Moon 테마로 진행하였습니다.
 
-Homepage 버튼을 누른 후, 우측 상단의 Fork를 클릭해줍니다.
+Homepage 버튼을 누른 후, 우측 상단의 Fork를 클릭해줍니다.  
 
 * Sartorial hoodie
 * Labore viral forage
